@@ -1,0 +1,39 @@
+.pro {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  width: 250px;
+  height: 250px;
+  padding-top: 5px;
+}
+.lef {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.ccc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 800px;
+}
+.bg11 {
+  background-color: black;
+  height: 500vh;
+  padding: 10px;
+  display: flex;
+}
+.proi {
+  margin: 10px;
+}
+.hr {
+  margin-bottom: 10px;
+}
+.w {
+  color: white;
+  font-size: 18px;
+}
+.label {
+  color: white;
+  margin-left: 5px;
+}
+.li {
+  margin: 10px;
+}

@@ -1,0 +1,96 @@
+.inp {
+  height: 30px;
+  width: 400px;
+  background-color: transparent;
+  border: 1px solid white;
+  border-right-color: transparent;
+  color: white;
+}
+.ser {
+  color: white;
+  background-color: #2c364c;
+  width: 40px;
+  height: 30px;
+}
+.jar {
+  display: flex;
+  border: 1px solid white;
+}
+.ul {
+  list-style-type: none;
+}
+.card {
+  background-color: #272727;
+  width: 800px;
+  border-radius: 10px;
+}
+.ver {
+  margin-left: 20px;
+}
+.lii {
+  margin: 20px;
+}
+.i {
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+}
+.head {
+  color: white;
+  font-size: 20px;
+}
+.star {
+  color: orange;
+  margin-top: 10px;
+  height: 30px;
+}
+.pp {
+  color: white;
+  margin-left: 8px;
+}
+.sc {
+  display: flex;
+}
+.hcc {
+  display: flex;
+}
+.loca {
+  color: white;
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.o {
+  color: white;
+}
+.go {
+  display: flex;
+  margin-top: 10px;
+}
+.ccd {
+  display: flex;
+  justify-content: space-around;
+}
+.oo {
+  color: white;
+  font-size: 20px;
+}
+.hl {
+  color: white;
+  margin-bottom: 10px;
+}
+.bot {
+  margin: 10px;
+  margin-bottom: 10px;
+}
+.mid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.sebut {
+  background-color: transparent;
+  border: 0px solid transparent;
+}

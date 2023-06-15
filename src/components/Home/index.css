@@ -1,0 +1,17 @@
+.back {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  height: 100vh;
+  background-size: cover;
+}
+.whi {
+  color: white;
+}
+.bbb {
+  color: white;
+  background-color: #6366f1;
+  height: 30px;
+  width: 80px;
+}
+.hh {
+  margin: 15px;
+}
